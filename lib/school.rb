@@ -31,7 +31,7 @@ class School
 end
 
 # school = School.new("Bayside High School")
-# chool.add_student("AC Slater", 9)
+# school.add_student("AC Slater", 9)
 # school.add_student("Kelly Kapowski", 10)
 # school.add_student("Screech", 11)
 # school.roster
