@@ -19,8 +19,11 @@ class School
     @roster[grade] << name
   end
   
-  def grade(num)
-    @roster[num]
+  def grade(grade_number)
+    @roster[grade_number]
+  end
+  
+  def sort_students
 end
 
 # school = School.new("Bayside High School")
